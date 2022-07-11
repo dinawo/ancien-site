@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="with=device-with, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+            <title> Dinawo | Projects</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+
+
+      <script src="vanilla-tilt.js"></script>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+MineBattle bot discord
+
+The MineBattle is an event created by Fixel and developed by Sybir. <br> The discord bot allows you to view more information about the event
